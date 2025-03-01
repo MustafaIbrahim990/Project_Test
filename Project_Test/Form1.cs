@@ -27,6 +27,7 @@ namespace Project_Test
         {
             _Name = txtName.Text;
             lblName.Text = (string.IsNullOrWhiteSpace(_Name)) ? "[????]" : _Name;
+            lblName1.Text = lblName.Text;
         }
     }
 }
