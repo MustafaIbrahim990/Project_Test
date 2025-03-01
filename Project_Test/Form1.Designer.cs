@@ -33,6 +33,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
             this.btnPrint = new System.Windows.Forms.Button();
+            this.lblName1 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -86,11 +88,34 @@
             this.btnPrint.UseVisualStyleBackColor = true;
             this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
+            // lblName1
+            // 
+            this.lblName1.AutoSize = true;
+            this.lblName1.Font = new System.Drawing.Font("Times New Roman", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName1.ForeColor = System.Drawing.Color.Red;
+            this.lblName1.Location = new System.Drawing.Point(243, 99);
+            this.lblName1.Name = "lblName1";
+            this.lblName1.Size = new System.Drawing.Size(88, 31);
+            this.lblName1.TabIndex = 6;
+            this.lblName1.Text = "[????]";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(61, 99);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(105, 31);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Name : ";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblName1);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.btnPrint);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.label2);
@@ -112,6 +137,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtName;
         private System.Windows.Forms.Button btnPrint;
+        private System.Windows.Forms.Label lblName1;
+        private System.Windows.Forms.Label label4;
     }
 }
 
