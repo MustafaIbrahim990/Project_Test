@@ -1,0 +1,33 @@
+C:\My_Projects\Project 17 _ Test\Project_Test\bin\Debug\Project_Test.exe.config
+C:\My_Projects\Project 17 _ Test\Project_Test\bin\Debug\Project_Test.exe
+C:\My_Projects\Project 17 _ Test\Project_Test\bin\Debug\Project_Test.pdb
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.csproj.AssemblyReference.cache
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.csproj.SuggestedBindingRedirects.cache
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.Form1.resources
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.Properties.Resources.resources
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.csproj.GenerateResource.cache
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.csproj.CoreCompileInputs.cache
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.exe
+C:\My_Projects\Project 17 _ Test\Project_Test\obj\Debug\Project_Test.pdb
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\bin\Debug\Project_Test.exe.config
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\bin\Debug\Project_Test.exe
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\bin\Debug\Project_Test.pdb
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.Form1.resources
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.exe
+C:\Users\abdul\OneDrive\Desktop\Project\Project_Test\Project_Test\obj\Debug\Project_Test.pdb
+C:\My_Projects\Project_Test\Project_Test\bin\Debug\Project_Test.exe.config
+C:\My_Projects\Project_Test\Project_Test\bin\Debug\Project_Test.exe
+C:\My_Projects\Project_Test\Project_Test\bin\Debug\Project_Test.pdb
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.AssemblyReference.cache
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.SuggestedBindingRedirects.cache
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.Form1.resources
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.Properties.Resources.resources
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.GenerateResource.cache
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.csproj.CoreCompileInputs.cache
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.exe
+C:\My_Projects\Project_Test\Project_Test\obj\Debug\Project_Test.pdb
